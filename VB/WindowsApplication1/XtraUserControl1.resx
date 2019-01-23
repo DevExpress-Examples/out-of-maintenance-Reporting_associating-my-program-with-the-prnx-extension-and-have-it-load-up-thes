@@ -120,8 +120,8 @@
   <metadata name="printBarManager1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
-  <assembly alias="DevExpress.Utils.v7.3" name="DevExpress.Utils.v7.3, Version=7.3.11.0, Culture=neutral, PublicKeyToken=9b171c9fd64da1d1" />
-  <data name="printBarManager1.ImageStream" type="DevExpress.Utils.ImageCollectionStreamer, DevExpress.Utils.v7.3" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <assembly alias="DevExpress.Utils.v13.1" name="DevExpress.Utils.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+  <data name="printBarManager1.ImageStream" type="DevExpress.Utils.ImageCollectionStreamer, DevExpress.Utils.v13.1" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         AAEAAAD/////AQAAAAAAAAAMAgAAAFhEZXZFeHByZXNzLlV0aWxzLnY3LjMsIFZlcnNpb249Ny4zLjMu
         MCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj05YjE3MWM5ZmQ2NGRhMWQxDAMAAABRU3lz
